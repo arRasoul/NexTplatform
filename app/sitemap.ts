@@ -1,4 +1,3 @@
-export default async function Sitemap() {
   const headersList = headers();
   const domain =
     headersList
