@@ -1,4 +1,3 @@
-import { Metadata } from "next";
 import { cn } from "@/lib/utils";
 
  "Platforms Starter Kit – The all-in-one starter kit for building multi-tenant applications.";
