@@ -1,5 +1,3 @@
-const image = "https://vercel.pub/thumbnail.png";
-
 export const metadata: Metadata = {
   title,
   description,
