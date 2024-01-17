@@ -1,5 +1,4 @@
-  const headersList = headers();
-  const domain =
+   const domain =
     headersList
       .get("host")
       ?.replace(".localhost:3000", `.${process.env.NEXT_PUBLIC_ROOT_DOMAIN}`) ??
