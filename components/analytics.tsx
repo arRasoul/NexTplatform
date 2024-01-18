@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 const chartdata = [
   {
     date: "Jan 23",
