@@ -5,7 +5,6 @@ export const metadata: Metadata = {
   openGraph: {
     title,
     description,
-    images: [image],
   },
   twitter: {
     card: "summary_large_image",
