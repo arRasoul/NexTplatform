@@ -1,10 +1,6 @@
 const chartdata = [
   {
   {
-    date: "Feb 23",
-    Visitors: 2756,
-  },
-  {
     date: "Mar 23",
     Visitors: 3322,
   },
