@@ -1,11 +1,4 @@
 export const metadata: Metadata = {
-  title,
-  description,
-  icons: ["https://vercel.pub/favicon.ico"],
-  openGraph: {
-    title,
-    description,
-  },
   twitter: {
     card: "summary_large_image",
     title,
