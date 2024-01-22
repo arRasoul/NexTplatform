@@ -1,5 +1,3 @@
-
-import { getSession } from "@/lib/auth";
 import {
   addDomainToVercel,
   // getApexDomain,
